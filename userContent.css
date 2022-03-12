@@ -1,0 +1,18 @@
+
+html {
+  background-color: #111111 !important;
+  color: #FDFDFD !important;
+}
+
+html a {
+  color: #0FFFFF !important;
+}
+
+html blockquote[type="cite"] {
+  color: #FF85F7 !important;
+  border-inline-start-color: #FF85F7 !important;
+}
+
+html body * {
+  font-size: 16px !important;
+}
